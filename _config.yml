@@ -1,18 +1,18 @@
 # Site settings
 title: Omid Dehghani
 description: Death is what reminds me of life.
-url: 'https://guftall.ir'
+url: 'https://dehghaniomid.ir'
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
   name: 'Omid Dehghani'
-  email: omid@guftall.ir
+  email: dehgkaniomid@gmail.com
   twitter_username: omid_deh
   facebook_username: '#'
   github_username:  guftall
-  linkedin_username:  '#'
+  linkedin_username:  'dehghaniomid'
 
 defaults:
   -
