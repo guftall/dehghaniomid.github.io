@@ -6,4 +6,4 @@ tags: [introduce,hi]
 ---
 Hi, I'm Omid Dehghani and this is my first website that hosted by `Github Pages`.
 I am `Software Engineering STUDENT`. Learning and working at `Persian Gulf University`.
-Address of my personal blog is [https://www.awayfromearth.ir](https://www.awayfromearth.ir), also i have a [blog](https://guftall.ir) that i post about my work and software engineering stuff.
+Address of my personal blog is [https://www.awayfromearth.ir](https://www.awayfromearth.ir), also i have a [blog](https://www.guftall.ir) that i post about my work and software engineering stuff.
