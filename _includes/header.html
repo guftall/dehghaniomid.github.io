@@ -37,12 +37,12 @@
               </li>
             {% endif %}
 
-            {% if site.author.facebook_username %}
-              <!-- Facebook -->
+            {% if site.author.goodreads_username %}
+              <!-- Goodreads -->
               <li class="navigation__item">
-                <a href="http://fb.me/{{ site.author.facebook_username }}" title="{{ site.author.facebook_username }} on Facebook" target="_blank">
-                  <i class="icon icon-social-facebook"></i>
-                  <span class="label">Facebook</span>
+                <a href="https://www.goodreads.com/{{ site.author.goodreads_username }}" title="{{ site.author.goodreads_username }} on Goodreads" target="_blank">
+                  <i class="fab fa-goodreads"></i>
+                  <span class="label">Goodreads</span>
                 </a>
               </li>
             {% endif %}
