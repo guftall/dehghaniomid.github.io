@@ -6,4 +6,4 @@ tags: [introduce,hi]
 ---
 Hi, I'm Omid Dehghani and this is my first website that hosted by `Github Pages`.
 I am `Software Engineering STUDENT`. Learning and working at `Persian Gulf University`.
-I have a [blog](https://www.guftall.ir) that i post about my work and software engineering stuff.
+There is a [blog](https://www.guftall.ir) that i post about my work and software engineering stuff.
